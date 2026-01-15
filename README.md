@@ -21,7 +21,7 @@
 ![Event Viewer](https://img.shields.io/badge/Event_Viewer-808080?style=for-the-badge)
 ![Windows Registry](https://img.shields.io/badge/Windows_Registry-808080?style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### 🌐 Web Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -63,9 +63,14 @@
 ---
 
 ## 🚀 Featured Projects
-- 🏦 **Bank System** – Simple banking system using OOP  
-- 🚦 **Traffic Light Simulation** – Desktop simulation project  
-- 🚗 **Driver Vehicle License Department** – Management system  
+
+- 🏦 **Full Stack Angular & ASP.NET Core CRUD System**  
+
+- 🏗️ **Angular Application with SQL Server Database**  
+
+- 🏦 **Bank Management System**  
+
+- 🚗 **Driver Vehicle License Department System**  
 
 ---
 
