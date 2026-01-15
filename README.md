@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Musab Omar
 
-💻 Software Developer (.NET) from Iraq  
+💻 Software Developer from Iraq  
 📍 Wasit  
 🎯 Interested in Desktop & Web Applications  
 
@@ -12,15 +12,18 @@
 
 ### 🪟 Microsoft / .NET
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful_API-512BD4?style=for-the-badge)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge)
+![Windows Forms](https://img.shields.io/badge/Windows_Forms-512BD4?style=for-the-badge)
+![Event Viewer](https://img.shields.io/badge/Event_Viewer-808080?style=for-the-badge)
+![Windows Registry](https://img.shields.io/badge/Windows_Registry-808080?style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Windows Forms](https://img.shields.io/badge/Windows_Forms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Event Viewer](https://img.shields.io/badge/Event_Viewer-808080?style=for-the-badge&logo=windows&logoColor=white)
-![Windows Registry](https://img.shields.io/badge/Windows_Registry-808080?style=for-the-badge&logo=windows&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge)
 
-### 🌐 Web Technologies
+### 🌐 Web Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -63,12 +66,6 @@
 - 🏦 **Bank System** – Simple banking system using OOP  
 - 🚦 **Traffic Light Simulation** – Desktop simulation project  
 - 🚗 **Driver Vehicle License Department** – Management system  
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GMusabOmar&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GMusabOmar&layout=compact)
 
 ---
 
