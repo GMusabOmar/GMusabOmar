@@ -14,9 +14,9 @@
 ![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![RESTful API](https://img.shields.io/badge/RESTful_API-512BD4?style=for-the-badge)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge)
-![Windows Forms](https://img.shields.io/badge/Windows_Forms-512BD4?style=for-the-badge)
+![RESTful API](https://img.shields.io/badge/RESTful_API-512BD4?style=for-the-badge&logo=dotnet)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet)
+![Windows Forms](https://img.shields.io/badge/Windows_Forms-512BD4?style=for-the-badge&logo=dotnet)
 ![Event Viewer](https://img.shields.io/badge/Event_Viewer-808080?style=for-the-badge)
 ![Windows Registry](https://img.shields.io/badge/Windows_Registry-808080?style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -41,10 +41,10 @@
 ### 💡 Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🧠 Software Concepts
-![OOP](https://img.shields.io/badge/OOP-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-512BD4?style=for-the-badge&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data_Structures-008080?style=for-the-badge)
 ![Clean Code](https://img.shields.io/badge/Clean_Code-FF8C00?style=for-the-badge)
 ![Delegates](https://img.shields.io/badge/Delegates-512BD4?style=for-the-badge)
