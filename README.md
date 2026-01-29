@@ -69,7 +69,11 @@
 
 - 🏦 **Bank Management System**  
 
-- 🚗 **Driver Vehicle License Department System**  
+- 🚗 **Driver Vehicle License Department System**
+
+- 📿 **Tasbeeh Counter Web App**
+
+- 📝 **To Do List using JavaScript**
 
 ---
 
