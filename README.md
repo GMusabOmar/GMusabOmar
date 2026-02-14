@@ -13,7 +13,7 @@
 ### ✨ Microsoft
 ![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/RESTful_API-512BD4?style=for-the-badge&logo=dotnet)
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet)
 ![Windows Forms](https://img.shields.io/badge/Windows_Forms-512BD4?style=for-the-badge&logo=dotnet)
